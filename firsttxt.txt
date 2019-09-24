@@ -51,3 +51,5 @@ Commit contents options
     --no-post-rewrite     bypass post-rewrite hook
     -u, --untracked-files[=<mode>]
                           show untracked files, optional modes: all, normal, no. (Default: all)
+
+git.diff
